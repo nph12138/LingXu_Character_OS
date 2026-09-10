@@ -1,0 +1,17 @@
+# 图片 / 视频走 LFS
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.webp filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
+
+# 文本统一按 LF 入库与检出，避免 Mac/Windows 跨平台换行差异（经坚果云同步）
+* text=auto eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+*.py text eol=lf

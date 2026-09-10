@@ -1,0 +1,16 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.tmp
+__pycache__/
+.obsidian/workspace*
+
+# 坚果云 / 同步冲突副本
+*冲突副本*
+*-Nph_*
+*.nutstore*
+.nutstore*
+
+# 大图由 LFS 接管，但以下临时产物不入库
+*~tmp*.png
+*_preview_tmp.png
