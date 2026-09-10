@@ -1,0 +1,21 @@
+# 图1 身份标准照 · 提示词模板（填完删掉本行注释）
+
+cinematic 3D CG character, high-end game cinematic, animated feature film quality,
+realistic PBR fantasy character, Chinese xuanhuan fantasy, 72% realism / 28% stylization,
+PBR skin with subtle SSS, visible pores, real eyelid thickness, strand-level hair,
+cinematic lighting, depth of field, rim light, environmental reflection
+
+{姓名}, {年龄}岁{性别}, {阵营}, {属性}
+Face DNA: {脸型}; {三庭}; {眉骨}; {眉形}; {眼型}; {眼距}; {鼻根}/{鼻梁}/{鼻头}; {唇型}; {下颌}/{下巴}; {个性标志}
+Hair: {发型}
+Costume: {基础服装}
+
+3:4 vertical, frontal chest-up portrait, facing camera, head straight, both eyes looking at lens,
+restrained neutral expression, full top of head / shoulders / upper chest visible,
+neutral light grey background, soft even studio CG lighting,
+no story, no combat action, no vfx, no weapon
+
+NEGATIVE:
+real photo, live actor, AI portrait, influencer photo, 2D anime, cel shading,
+plastic doll skin, wax figure skin, cheap game promo art,
+cross-eyed, deformed hands, extra limbs, text, watermark, logo, signature

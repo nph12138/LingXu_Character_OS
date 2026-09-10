@@ -1,0 +1,52 @@
+{
+  "星澜": {
+    "pid": "xinglan",
+    "face_shape": "方鹅蛋 65% + 倒梯形 35%",
+    "eye": "成熟冷感长杏眼（眼尾轻微上挑）",
+    "jaw": "柔和方下颌",
+    "identity_mark": "左眼下极浅泪痣",
+    "attr": "土",
+    "camp": "镇墟司",
+    "note": "来自 v0.1 face_registry（identity_mark：保留已有身份图锁定）"
+  },
+  "烬离": {
+    "pid": "jinli",
+    "face_shape": "成熟男性骨相脸",
+    "eye": "锐利但克制",
+    "jaw": "明显下颌线",
+    "identity_mark": "（待补）",
+    "attr": "火",
+    "camp": "镇墟司",
+    "note": "来自 v0.1 face_registry"
+  },
+  "北寒溟": {
+    "pid": "beihanming",
+    "face_shape": "长方脸（独立水系冷感骨相）",
+    "eye": "狭长眼（冷色瞳）",
+    "jaw": "宽下颌",
+    "identity_mark": "鼻梁旧伤",
+    "attr": "水",
+    "camp": "镇墟司",
+    "note": "来自 v0.1 face_registry（合并原 spec：长方脸/狭长眼/骨感鼻梁/宽下颌/鼻梁旧伤）"
+  },
+  "墨千": {
+    "pid": "moqian",
+    "face_shape": "硬朗长方脸",
+    "eye": "深眼窝沉稳眼",
+    "jaw": "厚重下颌",
+    "identity_mark": "（待补）",
+    "attr": "土",
+    "camp": "—",
+    "note": "来自 v0.1 face_registry"
+  },
+  "疏岚": {
+    "pid": "shulan",
+    "face_shape": "重新锁定独立脸型（待定稿）",
+    "eye": "攻击性眼型",
+    "jaw": "（待补）",
+    "identity_mark": "（待补）",
+    "attr": "木",
+    "camp": "—",
+    "note": "来自 v0.1 face_registry（face_shape：重新锁定独立脸型）"
+  }
+}

@@ -1,0 +1,17 @@
+# 视频资产图 / Hero Frame · 提示词模板（填完删掉本行注释）
+
+[视频角色资产图]
+cinematic 3D CG character, video consistency reference sheet of {姓名}, large scale,
+one large identity chest-up portrait + front / side / back three full body views,
+simple background, no story, no action, no vfx, no extra design board
+Face DNA: {与 identity_prompt 完全一致}
+
+[16:9 视频 Hero Frame]
+16:9 single shot, one clear moment: {起手/冲刺/格挡/召唤/释放/命中/卸力/落地/收招},
+action logic: source -> direction -> contact point -> environmental feedback,
+face clearly visible, no motion blur on face, anatomically valid motion
+Face DNA: {与 identity_prompt 完全一致}
+
+NEGATIVE:
+real photo, 2D anime, plastic skin, face occlusion, motion blur on face,
+impossible anatomy, text, watermark, logo, signature

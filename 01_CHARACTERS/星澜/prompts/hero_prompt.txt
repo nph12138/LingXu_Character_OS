@@ -1,0 +1,17 @@
+# Hero Key Art · 提示词模板（填完删掉本行注释）
+# 构图前先回答：什么画面只有这个角色能够出现？
+
+cinematic 3D CG character, high-end game cinematic, animated feature film quality,
+realistic PBR fantasy character, Chinese xuanhuan fantasy, 72% realism / 28% stylization
+
+Hero Key Art of {姓名}, 2:3 vertical, two-thirds to near full body,
+character occupies 55-70% of frame, mid shot character sharpest,
+blurred foreground object for depth, background carries world-building and ability display,
+ONE core event only: {核心机制画面}
+
+Face DNA: {与 identity_prompt 完全一致}
+Hair / Body / Costume / Weapon: {见 identity_anchor.md}
+
+NEGATIVE:
+real photo, 2D anime, plastic skin, multiple events in one frame,
+face covered by vfx, text, watermark, logo, signature
