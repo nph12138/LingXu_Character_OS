@@ -1,21 +1,11 @@
-# 图1 身份标准照 · 提示词模板（填完删掉本行注释）
+星澜，26岁成年女性，镇墟司核心行动者，正面胸像身份标准照。高规格中国玄幻3D动画电影CG，72%写实+28%风格化。
 
-cinematic 3D CG character, high-end game cinematic, animated feature film quality,
-realistic PBR fantasy character, Chinese xuanhuan fantasy, 72% realism / 28% stylization,
-PBR skin with subtle SSS, visible pores, real eyelid thickness, strand-level hair,
-cinematic lighting, depth of field, rim light, environmental reflection
+Face DNA：方鹅蛋脸65%+倒梯形35%，中庭略长，中高额头，自然弧形发际线，中等眉骨，柔剑眉，成熟冷感长杏眼，眼尾轻微上挑，标准眼距，蓝紫星眸但保留真实人类虹膜纹理和瞳孔结构，中高鼻根，中直鼻梁，自然微钝鼻头，中等嘴宽，上薄下厚，柔和方下颌，圆钝下巴，左眼下极浅泪痣。明确26岁，不幼态。
 
-{姓名}, {年龄}岁{性别}, {阵营}, {属性}
-Face DNA: {脸型}; {三庭}; {眉骨}; {眉形}; {眼型}; {眼距}; {鼻根}/{鼻梁}/{鼻头}; {唇型}; {下颌}/{下巴}; {个性标志}
-Hair: {发型}
-Costume: {基础服装}
+Hair：深蓝黑腰背长发，成年公主切结构，后部长直发，大束造型+精细发丝。
 
-3:4 vertical, frontal chest-up portrait, facing camera, head straight, both eyes looking at lens,
-restrained neutral expression, full top of head / shoulders / upper chest visible,
-neutral light grey background, soft even studio CG lighting,
-no story, no combat action, no vfx, no weapon
+Costume：黑紫星砂战斗服上半身，胸口星晶核心装饰，材质为高密度布料、柔性皮革、暗金属、晶体。
 
-NEGATIVE:
-real photo, live actor, AI portrait, influencer photo, 2D anime, cel shading,
-plastic doll skin, wax figure skin, cheap game promo art,
-cross-eyed, deformed hands, extra limbs, text, watermark, logo, signature
+镜头：3:4或4:5竖图，正面胸像，正对镜头，双眼直视，头部端正，完整头顶、双肩、胸口上段。浅灰中性背景，柔和均匀电影CG棚光。无武器、无剧情、无战斗动作、无大面积特效。
+
+皮肤必须PBR+适度SSS，有真实毛孔、眼睑厚度、泪阜、鼻翼、鼻孔、唇纹和轻微天然不对称。

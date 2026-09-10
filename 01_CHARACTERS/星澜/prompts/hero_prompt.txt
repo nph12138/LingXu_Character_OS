@@ -1,17 +1,13 @@
-# Hero Key Art · 提示词模板（填完删掉本行注释）
-# 构图前先回答：什么画面只有这个角色能够出现？
+星澜 Hero Key Art，2:3竖版。
 
-cinematic 3D CG character, high-end game cinematic, animated feature film quality,
-realistic PBR fantasy character, Chinese xuanhuan fantasy, 72% realism / 28% stylization
+唯一核心事件：战场发生崩塌，一名队友失去落点。星澜在高速移动中连续生成三枚浮星台阶，她自己踩过第一枚改变方向，同时让后续台阶延伸到队友脚下。最后一枚台阶在队友踏离瞬间崩解成蓝紫晶砂。
 
-Hero Key Art of {姓名}, 2:3 vertical, two-thirds to near full body,
-character occupies 55-70% of frame, mid shot character sharpest,
-blurred foreground object for depth, background carries world-building and ability display,
-ONE core event only: {核心机制画面}
+画面必须清楚表达：
+来源：星砂从星澜腰侧星砂环与周围晶砂中聚合。
+方向：向脚底和队友移动路径逐段构筑。
+接触：角色脚底与浮星台阶发生明确受力接触。
+反馈：台阶承重后产生细裂纹，离开后崩解为晶砂。
 
-Face DNA: {与 identity_prompt 完全一致}
-Hair / Body / Costume / Weapon: {见 identity_anchor.md}
+星澜保持LOCKED Face Identity、深蓝黑公主切长发、黑紫星砂战斗服、双晶棱刃与星砂环。
 
-NEGATIVE:
-real photo, 2D anime, plastic skin, multiple events in one frame,
-face covered by vfx, text, watermark, logo, signature
+人物占画面约60%，脸清晰。电影级纵深和环境反馈。禁止空中楼梯感、巨大法阵、银河、纯光粒子。

@@ -1,17 +1,9 @@
-# 视频资产图 / Hero Frame · 提示词模板（填完删掉本行注释）
+星澜视频角色资产图。只包含：1张大尺寸身份胸像 + 正面、侧面、背面3个完整全身。
 
-[视频角色资产图]
-cinematic 3D CG character, video consistency reference sheet of {姓名}, large scale,
-one large identity chest-up portrait + front / side / back three full body views,
-simple background, no story, no action, no vfx, no extra design board
-Face DNA: {与 identity_prompt 完全一致}
+Face、Hair、Body、Costume、Weapon必须完全一致。
 
-[16:9 视频 Hero Frame]
-16:9 single shot, one clear moment: {起手/冲刺/格挡/召唤/释放/命中/卸力/落地/收招},
-action logic: source -> direction -> contact point -> environmental feedback,
-face clearly visible, no motion blur on face, anatomically valid motion
-Face DNA: {与 identity_prompt 完全一致}
+星澜：26岁，171cm，方鹅蛋65%+倒梯形35%，成熟冷感长杏眼微挑，蓝紫星眸，左眼下极浅泪痣，深蓝黑成年公主切腰背长发，黑紫星砂主战服，胸口星晶，腰侧星砂环，半透明星纱长摆，黑紫星晶战靴。
 
-NEGATIVE:
-real photo, 2D anime, plastic skin, face occlusion, motion blur on face,
-impossible anatomy, text, watermark, logo, signature
+正面全身自然持两把双晶棱刃；侧面和背面保持武器、服装、发型结构一致。
+
+高规格中国玄幻3D动画电影CG，72%写实+28%风格化。简单中性背景，无剧情，无战斗动作，无能力特效，无额外设计小图。
